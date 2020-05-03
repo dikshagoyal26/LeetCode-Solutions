@@ -1,7 +1,7 @@
 /** 
 Title :  Remove Duplicates from Sorted Array
 Link  :  https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
-Idea  :  Once an element is encountered, bypass its duplicates and move on to the next unique element.
+Approach  :  Once an element is encountered, bypass its duplicates and move on to the next unique element.
 Time Complexity : O(n)
 */
 
