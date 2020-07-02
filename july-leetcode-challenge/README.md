@@ -5,3 +5,4 @@ A collection of solutions for the [July LeetCoding Challenge 2020](https://leetc
 | # | Problem | Algorithm/ Method | Data Structure | Time Complexity | Space Complexity |  Difficulty |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)  [(Code)](https://github.com/dikshagoyal26/LeetCode-Solutions/blob/master/june-leetcode-challenge/day1_arranging_coins.cpp)| Maths | - | O(1) | O(1) | Easy |
+| 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)  [(Code)](https://github.com/dikshagoyal26/LeetCode-Solutions/blob/master/june-leetcode-challenge/day2_binary_tree_level_order_traversal_II.cpp)| DFS | stack,queue | O(n) | O(n) | Easy |
