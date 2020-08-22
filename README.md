@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/) Solutions ![Language](https://img.shields.io/badge/language-C++11-blue.svg)
+# [LeetCode](https://leetcode.com/) Solutions ![C++](https://img.shields.io/badge/language-C++11-blue.svg) ![JavaScript](https://img.shields.io/badge/language-Javascript-yellow.svg) ![PRs](https://img.shields.io/badge/PRs-welcome-green.svg)
 
 - [My leetcode profile](https://leetcode.com/dikshagoyal/)
 
